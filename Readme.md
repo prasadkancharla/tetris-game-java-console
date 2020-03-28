@@ -1,4 +1,4 @@
-## Tetris Game - Console Game:
+## Tetris Game - Console:
 
 This is a Text-based Tetris game written in Java. 
 
